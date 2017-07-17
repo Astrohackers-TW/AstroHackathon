@@ -1,6 +1,12 @@
 # Astrohackers-TW: 天文黑客松
 ## 關於Astrohackers in Taiwan
-[Astrohackers in Taiwan](https://github.com/Astrohackers-TW) 是一個致力於在台灣天文教育與學術界以遊戲化的方式推廣Python、開源精神及黑客文化的社群。
+[Astrohackers in Taiwan](https://github.com/Astrohackers-TW)是一個致力於以黑客精神和遊戲化方式解決台灣天文教育與學術界現存問題的社群。我們目前的主要發展方向有:
+
+* 在台灣天文學界推廣Python
+* 協作開發出向一般大眾推廣天文的開源軟硬體
+* 協作開發出輔助校園天文教育的開源軟硬體
+* 協作開發出訓練天文學術研究人員的開源軟硬體
+
 
 ## 《Astrohackers-TW: 天文黑客松》是什麼?
 《Astrohackers-TW: 天文黑客松》為 [Astrohackers in Taiwan](https://github.com/Astrohackers-TW) 與教研/社群單位合作舉辦的天文黑客松活動，藉由這種協作活動，讓參與者學習如何將Python應用在天文教育與研究上，以及一同開發出有助於天文教育與研究的開源軟硬體工具/教材/教具。目前與我們合作的單位有:
